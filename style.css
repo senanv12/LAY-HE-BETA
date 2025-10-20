@@ -1,17 +1,71 @@
 /* NƏZRİN */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Georgian:wght@100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 
+body{
+    padding-left: 115px;
+}
 
+.sinxro{
+    width: 112px;
+    height: 66px;
+    margin-top: 15px;
+}
 
+.info{
+    display: flex;
+    flex-direction: row;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 400px;
+    width: 600px;
+    margin-top: 84px;
+    gap: 40px;
+}
 
+h1{
+    font-family: "Roboto Slab", serif;
+    font-weight: 700px;
+    width: 628px;
+    height: 190px;
+    font-size: 80px;
+    margin-top: 30px;
+}
 
+.quote{
+    width: 483.63px;
+    height: 200px;
+    top: 666px;
+    left: 409px;
+}
 
+.top-same{
+    padding-right: 5px;
+}
 
+.left-end{
+    font-family: "Montserrat", sans-serif;
+    width: 470px;
+    height: 62px;
+    top: 200px;
+    left: 122px;
+    font-weight: 400px;
+    font-size: 20px;
 
+}
 
+.header-content {
+  display: flex;
 
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
 
-
+.image-block{
+    width: 304px;
+    height: 679px;
+}
 
 
 
