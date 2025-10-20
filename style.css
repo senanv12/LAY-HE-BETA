@@ -403,6 +403,23 @@
 
 
 
+
+html, body{
+  font-family: "Space Grotesk", sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vh;
+}
+
+
 .main-bottom2{
     margin-left: 121px;
     margin-top: 106px;
@@ -510,6 +527,7 @@ footer{
     margin-top: 68px;
     padding-left: 45px;
     padding-top: 40px;
+    
 }
 
 
@@ -539,6 +557,7 @@ footer{
     height: 169px;
     margin-left: -30px;
     margin-top: 30px;
+    
 }
 
 
