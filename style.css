@@ -501,7 +501,7 @@ html, body{
 
 
 
-footer{
+article{
     width: 100vw;
     height: 780px;
     background-color: #EFEFEF;
@@ -509,7 +509,7 @@ footer{
     
 }
 
-.s-footer{
+.s-article{
     margin-left: 122px;
     margin-top: 106px;
     padding-top: 91px;
@@ -517,12 +517,12 @@ footer{
 
 
 
-.s-footer p{
+.s-article p{
     margin: 0;
 }
 
 
-.s-footer-block{
+.s-article-block{
     box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
     background-color: white;
     border-radius: 30px;
@@ -535,13 +535,13 @@ footer{
 }
 
 
-.s-footer-block:hover{
+.s-article-block:hover{
     box-shadow: 0px 0px 28px rgba(0, 0, 0, 0.25);
     cursor: pointer;
 }
 
 
-.s-footer-p{
+.s-article-p{
     width: 700px;
     height: 203px;
         font-family: "Roboto Slab", serif;
@@ -553,19 +553,19 @@ footer{
 }
 
 
-.s-footer-p:hover{
+.s-article-p:hover{
     text-decoration: underline;
     cursor: pointer;
 }
 
 
-.s-footer-f{
+.s-article-f{
     display: flex;
     flex-direction: row;
     padding-bottom: 30px;
 }
 
-.s-footer-f-left-img{
+.s-article-f-left-img{
     width: 190px;
     height: 169px;
     margin-left: -30px;
@@ -577,7 +577,7 @@ footer{
 
 
 
-.s-footer-f-right{
+.s-article-f-right{
     font-family: "Roboto Slab", serif;
     font-size: 30px;
     font-weight: bold;
@@ -588,11 +588,11 @@ footer{
 }
 
 
-.s-footer-f-right:hover{
+.s-article-f-right:hover{
     color: #4e70b7;
 }
 
-.s-footer-f-right img{
+.s-article-f-right img{
     width: 32px;
     height: 31px;
     margin-top: 35px;
