@@ -451,6 +451,7 @@ html, body{
     box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     border-radius: 30px;
+    transition: box-shadow 0.3s ease;
 }
 
 
@@ -491,7 +492,10 @@ html, body{
     line-height: 1.4;
 }
 
-
+.mb2-block:hover{
+        box-shadow: 0px 0px 28px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+}
 
 
 
@@ -531,7 +535,10 @@ footer{
 }
 
 
-
+.s-footer-block:hover{
+    box-shadow: 0px 0px 28px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
 
 
 .s-footer-p{
@@ -542,8 +549,14 @@ footer{
     line-height: 150%;
     margin-top: 40px;
     font-size: 20px;
+    transition: text-decoration 0.3s ease;
 }
 
+
+.s-footer-p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
 
 
 .s-footer-f{
@@ -570,8 +583,13 @@ footer{
     font-weight: bold;
     line-height: 101.4%;
     margin-top: 70px;
+    transition: color 0.3s ease;
     
-    
+}
+
+
+.s-footer-f-right:hover{
+    color: #4e70b7;
 }
 
 .s-footer-f-right img{
