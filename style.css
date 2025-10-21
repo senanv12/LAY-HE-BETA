@@ -209,37 +209,33 @@ html, body{
 *{
     box-sizing: border-box;
 }
-
+/* 
 .wrapper{
     width: 100vh;
-}
+} */
 
 
 body {
   font-family: "Roboto", sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: white;
-  color: #222;
 }
-.total{
+.main-bottom1{
     margin-top: 140px;
 
 margin-left: 122px;
 margin-bottom: 125px;
 
 }
-.esas{
+.mt1-esas{
     font-size: 55px;
     /* margin-left: 40px; */
 }
-.container {
+.mt1-container {
   display: flex;
   justify-content: space-between;
   /* padding: 40px; */
 }
 
-.blocks{
+.mt1-blocks{
     display: flex;
     flex-direction: row;
     margin-top: 10px;
@@ -247,7 +243,7 @@ margin-bottom: 125px;
     /* margin-bottom: 249px; */
 }
 
-.block1 {
+.mt1-block1 {
     color: black;
     font-size: 18px;
     width: 223px ;
@@ -256,7 +252,7 @@ margin-bottom: 125px;
     line-height: 130%;
     letter-spacing: 0%;
 }
-.block2 {
+.mt1-block2 {
     color: black;
     font-size: 18px;
     width: 271px ;
@@ -266,7 +262,7 @@ margin-bottom: 125px;
     letter-spacing: 0%;
 }
 
-.block3{
+.mt1-block3{
     color: black;
     font-size: 18px;
     width: 245px ;
@@ -276,7 +272,7 @@ margin-bottom: 125px;
     letter-spacing: 0%;
 }
 
-.block4{
+.mt1-block4{
     color: black;
    font-size: 24px;
    margin-top: 213px;
@@ -287,21 +283,21 @@ margin-bottom: 125px;
     letter-spacing: 0%;
     
 }
-.block4 h2{
+.mt1-block4 h2{
     margin-bottom: 42px;
 }
-.block4 li{
+.mt1-block4 li{
     line-height: 150%;
     font-size: 24px;
 }
-.container h3{
+.mt1-container h3{
     color: #1E4681;
     margin-bottom: -5px;
 }
 
 
 
-.block4-li{
+.mt1-block4-li{
     font-size: 24px;
       font-family: "Roboto", sans-serif;
 }
