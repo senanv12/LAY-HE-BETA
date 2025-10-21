@@ -3,6 +3,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 
+.wrapper{
+    width: 1440px;
+}
+
+html, body{
+  font-family: "Space Grotesk", sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
 body{
     padding-left: 115px;
 }
@@ -33,11 +48,22 @@ h1{
     margin-top: 30px;
 }
 
+
 .quote{
+    position: absolute;
     width: 483.63px;
     height: 200px;
     top: 666px;
-    left: 409px;
+    left: 409.39px;
+    
+}
+
+.nezrin-bir{
+    position: absolute;
+    top: 223px;
+    margin-left: 141px;
+    width: 305px;
+    height: 376px;
 }
 
 .top-same{
@@ -68,8 +94,100 @@ h1{
 }
 
 
+.quote{
+    margin: auto;
+}
 
 
+
+
+.Main-Top2{
+    
+    margin-top: 173px;
+    margin-bottom: 68px;
+}
+.mt2-h1{
+    font-family: "Roboto Slab", serif;
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: -80px;
+    line-height: 101.4%;
+    
+    
+}
+
+.mt2-top{
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.mt2-left p{
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    width: 662px;
+    line-height: 150%;
+  
+}
+
+.mt2-pe{
+  margin-top: 202px;
+}
+.mt2-left{
+  width: 50%;
+  width: 786px;
+  /* margin-left: 124px; */
+}
+
+.mt2-foto1{
+  width: 343px;
+  height: 332px;
+  margin-left: 140px;
+  margin-top: 80px;
+}
+
+
+.mt2-right{
+  margin-right: 124px;
+  margin-top: 120px;
+}
+
+
+.mt2-main{
+  width: 100vw;
+  margin-left: 19px;
+  margin-right: 314px;
+  display: flex;
+  flex-direction: row;
+  gap: 95px;
+  margin-top: 94px;
+
+}
+
+.mt2-foto2{
+  /* margin-left: 124px; */
+  margin-right: 0px;
+}
+
+
+.mt2-mh{
+    font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+
+.mt2-mc{
+  width: 200px;
+}
+
+
+.mt2-mc{
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  width: 150px;
+}
 
 
 
