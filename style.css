@@ -600,15 +600,30 @@
 /* GÜLNAR */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
   *{
       box-sizing: border-box;
   }
   
 
+    html, body{
+  font-family: "Space Grotesk", sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vh;
+}
+
 .footer{
     width: 100vw;
-    margin-left: 30px;
+    /* margin-left: 30px; */
     margin-right: auto;
     
     
@@ -618,25 +633,27 @@
     background-color: #9DC9C8;
     min-height: 780px;
     padding-left: 122px;
+    margin-left: 0px;
 
 }
 
 .footer-section1 h2{
-    font-family: Roboto Slab;
+  font-family: "Roboto Slab", serif;
     font-weight: 700;
     font-size: 55px;
     padding-top: 179px;
-    padding-bottom: 54px;
+    /* padding-bottom: 54px; */
+    margin-bottom: 54px;
     
 }
 .price{
-    font-family: Roboto Slab;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 25px;
     margin-bottom: -90px;
 }
 .footer-section1 h3{
-    font-family: Roboto Slab;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 80px; 
 }
@@ -658,20 +675,20 @@
 }
 
 .course-level-text1{
-    font-family: Roboto;
+     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 25px; 
     margin-bottom: -10px;
 
 }
 .course-level-text2{
-    font-family: Roboto;
+      font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
    
 }
 .course-access-text1{
-    font-family: Roboto;
+     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 25px;
     margin-bottom: -10px;
@@ -679,7 +696,7 @@
     
 }
 .course-access-text2{
-    font-family: Roboto;
+     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
 
@@ -724,14 +741,14 @@
 }
 
 .info-phonenumber p{
-    font-family: Roboto;
+      font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 25px;
     color: #FFFFFF;
 }
 
 .info-mail p{
-    font-family: Roboto;
+     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 25px;
     color: #FFFFFF;
@@ -767,7 +784,7 @@
 }
 
 .footer-section2 .protect{
-    font-family: Roboto;
+     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
     padding-bottom: 23px;
