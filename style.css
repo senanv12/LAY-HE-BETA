@@ -198,62 +198,62 @@ html, body{
 
 
 /* HƏMİD */
+.format-zanyati{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 0px;
+}
+
+.format-zanyati-hd{
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  line-height: 101.4%;
+}
+
+.format-zanyatib1{
+  margin-top:0px;
+}
+
+.format-zanyatib-h{
+  font-weight: bold;
+  line-height: 130%;
+  font-family: "Roboto", sans-serif;
+  color: #1E4681;
+
+
+}
+
+.format-zanyatib-d{
+  line-height: 130%;
+  font-family: "Roboto", sans-serif;
+ 
+}
 
 
 
+.main-top-list{
+  position: absolute;
+  left: 0px;
+}
 
+.main-top-list-h{
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  line-height: 101.4%;
+}
 
+.main-top-list-ul{
+  line-height: 150%;
+  font-family: "Roboto", sans-serif;
+  list-style-type: disc;
+  position: absolute;
 
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main-top-list-li{
+  line-height: 150%;
+}
 
 
 
@@ -838,7 +838,71 @@ html, body{
 
 
 /* HƏMİD */
+.format-zanyati {
+    top: 348.8vw;
+    gap: 8.0vw;
+  }
 
+  .format-zanyati-hd {
+    font-size: 6.93vw;
+    line-height: 101.4%;
+  }
+
+  .format-zanyatib1 {
+    width: 48.0vw;
+    margin-bottom: 5.33vw;
+  }
+
+  .format-zanyatib2 {
+    width: 48.0vw;
+    margin-bottom: 5.33vw;
+  }
+
+  .format-zanyatib3 {
+    width: 48.0vw;
+    margin-bottom: 5.33vw;
+  }
+
+  .format-zanyatib-h {
+    font-size: 3.2vw;
+    line-height: 130%;
+  }
+
+
+  .format-zanyatib-d {
+    font-size: 2.67vw;
+    line-height: 130%;
+  }
+
+  .format-zanyatib2 {
+    width: 44.0vw;
+  }
+
+  .format-zanyatib3 {
+    width: 42.4vw;
+  }
+
+  .main-top-list {
+    margin-top: 19.47vw;
+    top: 428.53vw;
+  }
+
+  .main-top-list-h {
+    font-size: 6.93vw;
+    line-height: 101.4%;
+    margin-bottom: 5.33vw;
+  }
+
+  .main-top-list-ul {
+    font-size: 3.2vw;
+    line-height: 150%;
+    width: 80.0vw;
+    left: 4.0vw;
+  }
+
+  .main-top-list-li {
+    line-height: 150%;
+  }
 
 
 
@@ -1338,7 +1402,92 @@ html, body{
 
 
  /* HƏMİD */
+.format-zanyati {
+    top: 140.0vw;
+    gap: 3.6vw;
+    flex-direction: row;
+  }
 
+  .format-zanyati-hd {
+    font-size: 3.12vw;
+    line-height: 101.4%;
+  }
+
+  .format-zanyatib1 {
+    position: absolute;
+    top: 8.82vw;
+    left: 0;
+    width: 21.58vw;
+    margin-top: 0vw;
+    width: 14.99vw;
+  }
+
+  .format-zanyatib2 {
+    position: absolute;
+    top: 8.82vw;
+    left: 16.78vw;
+    width: 21.58vw;
+    margin-top: 0vw;
+    width: 18.22vw;
+    margin-left: 5.52vw;
+  }
+
+  .format-zanyatib3 {
+    position: absolute;
+    top: 8.82vw;
+    left: 39.09vw;
+    width: 21.58vw;
+    margin-top: 0vw;
+    width: 18.22vw;
+    margin-left: 5.52vw;
+  }
+
+  .format-zanyatib-h {
+    font-size: 1.44vw;
+    line-height: 130%;
+  }
+
+  .format-zanyatib-d {
+    font-size: 1.2vw;
+    line-height: 130%;
+  }
+
+  .format-zanyatib2 {
+    width: 19.78vw;
+  }
+
+  .format-zanyatib3 {
+    width: 19.06vw;
+  }
+
+  .main-top-list {
+    margin-top: 0vw;
+    top: 175.49vw;
+  }
+
+  .main-top-list-h {
+    font-size: 3.84vw;
+    line-height: 101.4%;
+    margin-bottom: 2.4vw;
+  }
+
+  .main-top-list-ul {
+    font-size: 1.68vw;
+    line-height: 150%;
+    width: 45.97vw;
+    left: 3.0vw;
+  }
+
+  .main-top-list-li {
+    line-height: 150%;
+  }
+
+  .wrapper2 {
+    position: relative;
+    margin-top: 0vw;
+    left: 0;
+    right: 0;
+  }
 
 
 
@@ -1858,7 +2007,79 @@ html, body{
 
 
     /* HƏMİD */
+.format-zanyati {
+    position: absolute;
+    top: 145.83vw;
+    margin-top: 4.79vw;
+  }
 
+  .format-zanyatibs {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 3.47vw;
+    gap: 8.47vw;
+  }
+
+  .format-zanyati-hd {
+    font-size: 3.82vw;
+    line-height: 101.4%;
+  }
+
+  .format-zanyatib1 {
+    width: 15.97vw;
+  }
+
+  .main-bottom1-box-d{
+    width: 10.41vw;
+  }
+
+  .format-zanyatib-h {
+    font-size: 1.74vw;
+    line-height: 130%;
+  }
+
+  .format-zanyatib-d {
+    font-size: 1.25vw;
+    line-height: 130%;
+  }
+
+  .format-zanyatib2 {
+    width: 18.82vw;
+  }
+
+  .format-zanyatib3 {
+    width: 17.01vw;
+  }
+
+  .main-top-list {
+    margin-top: 0vw;
+    top: 174.31vw;
+  }
+
+  .main-top-list-h {
+    font-size: 3.82vw;
+    line-height: 101.4%;
+    margin-bottom: 2.92vw;
+  }
+
+  .main-top-list-ul {
+    font-size: 1.67vw;
+    line-height: 150%;
+    width: 45.97vw;
+    left: 1.74vw;
+  }
+
+  .main-top-list-li {
+    line-height: 150%;
+  }
+
+  .wrapper2 {
+    position: relative;
+    margin-top: 0vw;
+    left: 0;
+    right: 0;
+  }
 
 
 
