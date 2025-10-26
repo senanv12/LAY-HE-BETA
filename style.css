@@ -359,156 +359,156 @@ html, body{
 
 /* GÜLNAR */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main-footer-top{
+  position: relative;
+  width: 100vw;
+  background-color: #EFEFEF;
+
+}
+
+.main-footer-top-h{
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  line-height: 101.4%;
+  position: absolute;
+}  
+
+
+.main-footer-top-block{
+  position: relative;
+  background-color: white;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
+}
+
+
+.main-footer-top-block-pfp{
+  position: absolute;
+}
+
+.main-footer-top-block-name{
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: bold;
+  line-height: 101.4%;
+  position: absolute;
+}
+
+.main-footer-top-block-fb{
+  position: absolute;
+}
+
+.main-footer-top-block-p{
+  font-family: "Roboto", sans-serif;
+  line-height: 150%;
+  position: absolute;
+  color: black;
+}
+
+
+
+
+.main-footer-bottom{
+  background-color: #9DC9C8;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.main-footer-bottom-h{
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  line-height: 101.4%;
+  position: absolute;
+}
+
+.main-footer-bottom-sto{
+  font-family: "Roboto Slab", serif;
+  line-height: 101.4%;
+  position: absolute;
+}
+
+.main-footer-bottom-prc{
+  font-family: "Roboto", sans-serif;
+  line-height: 101.4%;
+  position: absolute;
+}
+
+.main-footer-bottom-block{
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+}
+
+.nb-h{
+  font-family: "Roboto", sans-serif;
+  line-height: 101.4%;
+  position: static;
+}
+
+.nb-d{
+  font-family: "Roboto", sans-serif;
+  line-height: 101.4%;
+}
+
+
+
+.black{
+  background-color: black;
+  width: 100vw;
+  position: relative;
+}
+
+
+.black-logo{
+  position: absolute;
+}
+
+
+.white-logos{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.black-contacts{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+
+  
+}
+
+.bc1{
+  
+  line-height: 101.4%;
+  color: white;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bc2{
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+
+.bc-p{
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.black-end{
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  line-height: 101.4%;
+  color: white;
+}
 
 
 
@@ -968,185 +968,185 @@ html, body{
 
 
   /* GÜLNAR */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main-footer-top {
+    height: 112.8vw;
+    width: 160.0vw;
+    top: 880.0vw;
+  }
+
+  .main-footer-top-h {
+    font-size: 6.93vw;
+    line-height: 101.4%;
+    left: 9.6vw;
+    top: 11.2vw;
+    width: 68.53vw;
+  }
+
+  .main-footer-top-block {
+    width: 82.13vw;
+    height: 66.13vw;
+    top: 32.53vw;
+    left: 9.6vw;
+    border-radius: 3.73vw;
+    box-shadow: 0px 0px 3.2vw rgba(0, 0, 0, 0.25);
+  }
+
+  .main-footer-top-block-pfp {
+    width: 21.33vw;
+    height: 22.4vw;
+    top: 40.27vw;
+    left: 5.6vw;
+  }
+
+  .main-footer-top-block-name {
+    font-size: 3.73vw;
+    line-height: 101.4%;
+    top: 44.94vw;
+    left: 30.57vw;
+  }
+
+  .main-footer-top-block-fb {
+    width: 3.98vw;
+    height: 4.59vw;
+    top: 53.67vw;
+    left: 30.57vw;
+  }
+
+  .main-footer-top-block-p {
+    font-size: 2.67vw;
+    line-height: 150%;
+    top: 4.93vw;
+    left: 5.6vw;
+    width: 70.93vw;
+  }
+
+  .main-footer-bottom {
+    width: 160.0vw;
+    height: 96.92vw;
+    top: 880.0vw;
+  }
+
+  .main-footer-bottom-h {
+    font-size: 6.93vw;
+    line-height: 101.4%;
+    left: 9.07vw;
+    top: 16.53vw;
+    width: 59.73vw;
+  }
+
+  .main-footer-bottom-sto {
+    font-size: 3.2vw;
+    line-height: 101.4%;
+    top: 39.29vw;
+    left: 9.07vw;
+  }
+
+  .main-footer-bottom-prc {
+    font-size: 9.87vw;
+    line-height: 101.4%;
+    top: 43.01vw;
+    left: 9.07vw;
+  }
+
+  .main-footer-bottom-block {
+    gap: 8.27vw;
+    top: 62.27vw;
+    left: 9.07vw;
+  }
+
+  .nb-h {
+    font-size: 3.2vw;
+    line-height: 101.4%;
+    margin-bottom: 1.33vw;
+  }
+
+  .nb-d {
+    font-size: 2.67vw;
+    line-height: 101.4%;
+    width: 36.8vw;
+  }
+
+  .black {
+    width: 160.0vw;
+    height: 66.93vw;
+    top: 880.0vw;
+  }
+
+  .black-logo {
+    width: 14.29vw;
+    height: 8.45vw;
+    left: 9.33vw;
+    top: 6.21vw;
+  }
+
+  .white-logos {
+    left: 9.33vw;
+    top: 18.14vw;
+    width: 4.22vw;
+    gap: 2.4vw;
+  }
+
+  .wl1 {
+    width: 4.1vw;
+    height: 4.1vw;
+  }
+
+  .wl2 {
+    width: 3.98vw;
+    height: 3.98vw;
+  }
+
+  .wl3 {
+    width: 4.35vw;
+    height: 4.35vw;
+  }
+
+  .wl4 {
+    width: 4.22vw;
+    height: 4.22vw;
+  }
+
+  .black-contacts {
+    left: 9.33vw;
+    top: 35.2vw;
+  }
+
+  .bc1 {
+    font-size: 3.2vw;
+    line-height: 101.4%;
+    margin-bottom: 4.0vw;
+    width: 39.51vw;
+    gap: 2.67vw;
+  }
+
+  .bc2 {
+    gap: 2.67vw;
+  }
+
+  .bc-p {
+    font-size: 3.2vw;
+  }
+
+  .black-end {
+    bottom: 2.67vw;
+    left: 9.33vw;
+    font-size: 2.67vw;
+    line-height: 101.4%;
+  }
+
+  .bc1 img {
+    width: 3.35vw;
+    height: 3.35vw;
+  }
+
+  .bc2 img {
+    width: 3.35vw;
+    height: 2.24vw;
+  }
 }
+
+
+
 /* -------------------------------------------------------------- */
 /* -----------------------------MEDIA TABLET--------------------- */
 /* -------------------------------------------------------------- */
@@ -1489,184 +1489,184 @@ html, body{
 
   /* GÜLNAR */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main-footer-top {
+    height: 54.17vw;
+    width: 100vw;
+    top: 297.48vw;
+  }
+
+  .main-footer-top-h {
+    font-size: 3.84vw;
+    line-height: 101.4%;
+    left: 8.39vw;
+    top: 6.32vw;
+    width: 68.54vw;
+  }
+
+  .main-footer-top-block {
+    width: 54.93vw;
+    height: 31.32vw;
+    top: 15.14vw;
+    left: 8.75vw;
+    border-radius: 2.08vw;
+    box-shadow: 0px 0px 1.44vw rgba(0, 0, 0, 0.25);
+  }
+
+  .main-footer-top-block-pfp {
+    width: 13.19vw;
+    height: 11.74vw;
+    top: 17.57vw;
+    left: 1.81vw;
+  }
+
+  .main-footer-top-block-name {
+    font-size: 2.04vw;
+    line-height: 101.4%;
+    top: 20.35vw;
+    left: 17.08vw;
+  }
+
+  .main-footer-top-block-p {
+    font-size: 1.44vw;
+    width: 48.61vw;
+    height: 14.1vw;
+    left: 3.12vw;
+    top: 2.78vw;
+  }
+
+  .main-footer-top-block-fb {
+    width: 2.22vw;
+    height: 2.15vw;
+    top: 24.44vw;
+    left: 17.08vw;
+  }
+
+  .main-footer-bottom {
+    width: 100vw;
+    height: 54.17vw;
+    top: 297.45vw;
+  }
+
+  .main-footer-bottom-h {
+    font-size: 3.84vw;
+    line-height: 101.4%;
+    left: 8.47vw;
+    top: 12.43vw;
+    width: 63.06vw;
+  }
+
+  .main-footer-bottom-sto {
+    font-size: 1.68vw;
+    line-height: 101.4%;
+    top: 20.76vw;
+    left: 8.47vw;
+  }
+
+  .main-footer-bottom-prc {
+    font-size: 5.52vw;
+    line-height: 101.4%;
+    top: 22.85vw;
+    left: 8.47vw;
+  }
+
+  .main-footer-bottom-block {
+    gap: 4.92vw;
+    top: 33.61vw;
+    left: 8.47vw;
+  }
+
+  .nb-h {
+    font-size: 1.68vw;
+    line-height: 101.4%;
+    margin-bottom: 1.08vw;
+  }
+
+  .nb-d {
+    font-size: 1.2vw;
+    line-height: 101.4%;
+    width: 20.42vw;
+  }
+
+  .black {
+    width: 100vw;
+    height: 27.08vw;
+    top: 296.46vw;
+  }
+
+  .black-logo {
+    width: 7.99vw;
+    height: 4.72vw;
+    left: 8.47vw;
+    top: 3.47vw;
+  }
+
+  .white-logos {
+    left: 8.47vw;
+    top: 10.14vw;
+    width: 13.75vw;
+    gap: 1.8vw;
+  }
+
+  .wl1 {
+    width: 2.29vw;
+    height: 2.29vw;
+  }
+
+  .wl2 {
+    width: 2.22vw;
+    height: 2.22vw;
+  }
+
+  .wl3 {
+    width: 2.43vw;
+    height: 2.43vw;
+  }
+
+  .wl4 {
+    width: 2.36vw;
+    height: 2.36vw;
+  }
+
+  .black-contacts {
+    left: 67.78vw;
+    top: 3.75vw;
+  }
+
+  .bc1 {
+    font-size: 1.68vw;
+    line-height: 101.4%;
+    margin-bottom: 1.8vw;
+    width: 19.37vw;
+    gap: 1.2vw;
+  }
+
+  .bc2 {
+    gap: 1.2vw;
+  }
+
+  .bc-p {
+    font-size: 1.68vw;
+  }
+
+  .black-end {
+    bottom: 1.6vw;
+    left: 8.47vw;
+    font-size: 1.2vw;
+    line-height: 101.4%;
+  }
+
+  .bc1 img {
+    width: 1.88vw;
+    height: 1.88vw;
+  }
+
+  .bc2 img {
+    width: 1.88vw;
+    height: 1.25vw;
+  }
 }
+
+
 /* -------------------------------------------------------------- */
 /* ----------------------------MEDIA DESKTOP--------------------- */
 /* -------------------------------------------------------------- */
@@ -1999,186 +1999,186 @@ html, body{
 
   /* GÜLNAR */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ .main-footer-top {
+    height: 54.17vw;
+    width: 145.83vw;
+    top: 321.18vw;
+  }
+
+  .main-footer-top-h {
+    font-size: 3.82vw;
+    line-height: 101.4%;
+    left: 8.47vw;
+    top: 6.32vw;
+    width: 68.54vw;
+  }
+
+  .main-footer-top-block {
+    width: 54.93vw;
+    height: 31.32vw;
+    top: 15.14vw;
+    left: 8.75vw;
+    border-radius: 2.08vw;
+    box-shadow: 0px 0px 0.83vw rgba(0, 0, 0, 0.25);
+  }
+
+  .main-footer-top-block-pfp {
+    width: 13.19vw;
+    height: 11.74vw;
+    top: 17.57vw;
+    left: 1.81vw;
+  }
+
+  .main-footer-top-block-name {
+    font-size: 2.08vw;
+    line-height: 101.4%;
+    top: 20.35vw;
+    left: 17.08vw;
+  }
+
+  .main-footer-top-block-p {
+    font-size: 1.39vw;
+    width: 48.61vw;
+    height: 14.1vw;
+    left: 3.13vw;
+    top: 2.78vw;
+  }
+
+  .main-footer-top-block-fb {
+    width: 2.22vw;
+    height: 2.15vw;
+    top: 24.44vw;
+    left: 17.08vw;
+  }
+
+  .main-footer-bottom {
+    width: 145.83vw;
+    height: 54.17vw;
+    top: 321.18vw;
+  }
+
+  .main-footer-bottom-h {
+    font-size: 4.58vw;
+    line-height: 101.4%;
+    left: 8.47vw;
+    top: 10.35vw;
+    width: 63.06vw;
+  }
+
+  .main-footer-bottom-sto {
+    font-size: 1.74vw;
+    line-height: 101.4%;
+    top: 20.76vw;
+    left: 8.47vw;
+  }
+
+  .main-footer-bottom-prc {
+    font-size: 5.56vw;
+    line-height: 101.4%;
+    top: 22.85vw;
+    left: 8.47vw;
+  }
+
+  .main-footer-bottom-block {
+    gap: 4.86vw;
+    top: 33.61vw;
+    left: 8.47vw;
+  }
+
+  .nb-h {
+    font-size: 1.74vw;
+    line-height: 101.4%;
+    margin-bottom: 1.25vw;
+  }
+
+  .nb-d {
+    font-size: 1.25vw;
+    line-height: 101.4%;
+    width: 20.42vw;
+  }
+
+  .black {
+    width: 145.83vw;
+    height: 27.08vw;
+    top: 321.18vw;
+  }
+
+  .black-logo {
+    width: 7.99vw;
+    height: 4.72vw;
+    left: 8.47vw;
+    top: 4.17vw;
+  }
+
+  .white-logos {
+    left: 8.47vw;
+    top: 10.28vw;
+    width: 13.75vw;
+    gap: 1.74vw;
+  }
+
+  .wl1 {
+    width: 2.29vw;
+    height: 2.29vw;
+  }
+
+  .wl2 {
+    width: 2.22vw;
+    height: 2.22vw;
+  }
+
+  .wl3 {
+    width: 2.43vw;
+    height: 2.43vw;
+  }
+
+  .wl4 {
+    width: 2.36vw;
+    height: 2.36vw;
+  }
+
+  .black-contacts {
+    left: 67.78vw;
+    top: 3.75vw;
+    margin-top: 3.75vw;
+  }
+
+  .bc1 {
+    font-size: 1.74vw;
+    line-height: 101.4%;
+    margin-bottom: 1.74vw;
+    width: 18.68vw;
+    gap: 0.69vw;
+  }
+
+  .bc2 {
+    gap: 0.69vw;
+  }
+
+  .bc-p {
+    font-size: 1.74vw;
+  }
+
+  .black-end {
+    bottom: 1.6vw;
+    left: 8.47vw;
+    font-size: 1.25vw;
+    line-height: 101.4%;
+  }
+
+  .bc1 img {
+    width: 1.88vw;
+    height: 1.88vw;
+  }
+
+  .bc2 img {
+    width: 1.88vw;
+    height: 1.25vw;
+  }
 }
+
+
+
 /* -------------------------------------------------------------- */
 /* -----------------------------MEDIA EXTRA---------------------- */
 /* -------------------------------------------------------------- */
