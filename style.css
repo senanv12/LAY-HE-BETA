@@ -581,8 +581,44 @@ html, body{
 
 
 
+/* SƏNAN */
+.main-bottom{
+  position: absolute;
+}
 
 
+.main-bottom-h{
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
+  line-height: 101.4%;
+}
+
+.main-bottom-blocks{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+
+.main-bottomblock{
+  border-style: none;
+  position: relative;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
+}
+
+.main-bottomblock img{
+  position: absolute;
+}
+
+
+.main-bottomblock h3{
+  font-family: "Roboto", serif;
+  font-weight: bold;
+  line-height: 130%;
+  color: black;
+  position: absolute;
 
 /* NƏZRİN */
 
@@ -1429,59 +1465,59 @@ html, body{
 
  /* SƏNAN */
 
+  .main-bottom {
+    top: 225.42vw;
+  }
 
+  .main-bottom-h {
+    font-size: 3.82vw;
+    line-height: 101.4%;
+    margin-bottom: 12.15vw;
+  }
 
+  .main-bottom-blocks {
+    gap: 2.57vw;
+    left: 5.83vw;
+    margin-bottom: 3.13vw;
+  }
 
+  .main-bottomblock {
+    width: 27.71vw;
+    height: 22.78vw;
+    border-radius: 2.08vw;
+    box-shadow: 0px 0px 0.83vw rgba(0, 0, 0, 0.25);
+  }
 
+  .main-bottomblock img {
+    width: 27.71vw;
+    height: 11.11vw;
+  }
 
+  .main-bottomblock h3 {
+    font-size: 2.08vw;
+    line-height: 130%;
+    width: 25.35vw;
+    margin: 1.53vw auto;
+    top: 10.07vw;
+    left: 1.39vw;
+  }
 
+  .main-bottomblock p {
+    font-size: 1.74vw;
+    line-height: 130%;
+    width: 25.35vw;
+    margin: 1.53vw auto;
+    line-height: 130%;
+    bottom: 0vw;
+    left: 1.32vw;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  .main-bottom-blocks {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: absolute;
+    left: 0;
+  }
 
 
 
