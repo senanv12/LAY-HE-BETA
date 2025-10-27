@@ -1231,9 +1231,9 @@ html, body{
     width: 33.59vw;
     height: 13.89vw;
     border-radius: 0.35vw;
-    top: 47.47vw;
+    top: 46.29vw;
     padding: 1.68vw;
-    left: 20.03vw;
+    left: 19.95vw;
   }
 
   .bb-text {
@@ -1481,7 +1481,7 @@ html, body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     position: absolute;
-    left: 0;
+    left: -2vw;
   }
 
 
@@ -1680,7 +1680,7 @@ html, body{
 
   .wrapper {
     width: 100vw;
-    margin-left: 5.83vw;
+    margin-left: 8.402vw;
   }
 
   /* NƏZRİN */
@@ -1951,7 +1951,7 @@ html, body{
 
   .main-bottom-blocks {
     gap: 2.57vw;
-    left: 5.83vw;
+    left: -2vw;
     margin-bottom: 3.13vw;
   }
 
@@ -1990,7 +1990,7 @@ html, body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     position: absolute;
-    left: 0;
+    left: -2vw;
   }
 
 
@@ -2196,7 +2196,7 @@ body{
 }
 
 
-@media screen and (min-width: 2100px){
+@media screen and (min-width: 2101px){
 
   body{
     display: none;
